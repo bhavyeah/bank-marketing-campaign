@@ -38,11 +38,11 @@ _Key findings from EDA:_
 4. Economic conditions (e.g., euribor3m, nr.employed)
 
 🚀 **Final Takeaways**
-**Best Model:** _**XGBoost**_
-_Actionable Insights for the Bank:_
-1. Prioritize high-potential customers for outreach
-2. Optimize call duration & timing to improve conversions
-3. Align campaigns with favorable economic conditions
+- **Best Model:** _**XGBoost**_
+- _Actionable Insights for the Bank:_
+  1. Prioritize high-potential customers for outreach
+  2. Optimize call duration & timing to improve conversions
+  3. Align campaigns with favorable economic conditions
 
 ✅ _**Impact:**_ _More efficient campaigns → reduced costs → higher conversion rates_
 
