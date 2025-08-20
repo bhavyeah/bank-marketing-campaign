@@ -10,14 +10,14 @@
 - Features: demographic details, contact type, campaign history, and macroeconomic indicators
 
 🔍 **Exploratory Data Analysis (EDA)**
-_Key findings from EDA:_
-- **Job type:** Students & retired people had the highest conversion rates.
-- **Education:** Illiterates & unknown categories converted most, followed by university grads.
-- **Marital status:** Married clients were more likely to subscribe.
-- **Contact style:** Mobile phone contacts were far more effective than landline calls.
-- **Seasonality:** May–August saw the highest conversion rates.
-- **Day of week:** Conversions were fairly stable; Thursday performed slightly better.
-- **Correlations:** Call duration and employment/economic indicators were the strongest predictors.
+- _Key findings from EDA:_
+  - **Job type:** Students & retired people had the highest conversion rates.
+  - **Education:** Illiterates & unknown categories converted most, followed by university grads.
+  - **Marital status:** Married clients were more likely to subscribe.
+  - **Contact style:** Mobile phone contacts were far more effective than landline calls.
+  - **Seasonality:** May–August saw the highest conversion rates.
+  - **Day of week:** Conversions were fairly stable; Thursday performed slightly better.
+  - **Correlations:** Call duration and employment/economic indicators were the strongest predictors.
 
 🤖 _**Models Implemented**_
 1. **Logistic Regression** – Baseline linear model
